@@ -43,6 +43,7 @@ button {
   cursor: pointer;
   margin-top: 1em;
   letter-spacing: 1px;
+  font-family:'Poppins',serif;
 }
 
 button:hover {
